@@ -1,6 +1,6 @@
 # Controlling-a-Machine-using-arduino
 
-this project was to controll a machine brakes. in this system we have 2 Limit Switches, 2 push buttons, Keypad 4*4 
+this project was to controll a machine brakes. in this system we have arduino uno. 2 Limit Switches, 2 push buttons, Keypad 4*4 
 
 1 – there are tow branches every branch has tow switches (on/off switch, limitswitch)
 
